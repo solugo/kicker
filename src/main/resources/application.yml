@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: kicker
+
+  data:
+    mongodb:
+      database: kicker
