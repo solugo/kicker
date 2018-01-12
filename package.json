@@ -1,0 +1,30 @@
+{
+  "name": "kicker",
+  "version": "1.0.0",
+  "description": "A web based table football manager",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "copy-webpack-plugin": "^4.3.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.2.0",
+    "webpack": "^3.10.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://frederic-kneier@github.com/solugo/kicker.git"
+  },
+  "author": "Frederic Kneier",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/solugo/kicker/issues"
+  },
+  "homepage": "https://github.com/solugo/kicker#readme"
+}
